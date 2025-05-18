@@ -43,3 +43,5 @@ This project focuses on building a neural style transfer system that lets users 
 ---
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8624cc51-d34a-4834-b01b-872e3c26ee26)
